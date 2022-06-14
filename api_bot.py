@@ -1,1 +1,2 @@
-BOT_KEY = "5598706779:AAGN8b0OMO2zvF7gP24wDg499bqJCr2d070"
+BOT_KEY = "api key"
+#i get this from Botfather in telegram 
